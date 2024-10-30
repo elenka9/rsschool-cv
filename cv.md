@@ -8,8 +8,8 @@ Telegram: @elenaAn9 <br>
 Discord: Elenka(@elenka9) <br>
 
 ## About me
-I am a frontend developer with a Master’s degree in Computer Science. Besides, I have extensive experience working for over 10 years as a lawyer within the banking sector.<br> 
-My legal experience has taught me to work with large amounts of information, pay attention to details, strictly follow requirements, and meet deadlines.<br> Thanks to my interaction with clients and colleagues, I have developed excellent communication skills. I continually seek out new technologies to enhance my skills. <br>I am prepared to learn new technologies quickly and effectively contribute to a professional team.  
+I am a frontend developer with a Master’s degree in Computer Science. Besides, I have extensive experience working for over 10 years as a lawyer within the banking sector.
+My legal experience has taught me to work with large amounts of information, pay attention to details, strictly follow requirements, and meet deadlines. Thanks to my interaction with clients and colleagues, I have developed excellent communication skills. I continually seek out new technologies to enhance my skills. I am prepared to learn new technologies quickly and effectively contribute to a professional team.  
 
 ## Skills
 * HTML5
