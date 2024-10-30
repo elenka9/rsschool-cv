@@ -1,4 +1,4 @@
-<img src='https://www.pngwing.com/ru/free-png-vrsug' />
+<img src='https://www.pngwing.com/ru/free-png-vrsug' alt='photo' />
 
 # Andrianova Elena 
 ## Frontend Developer
